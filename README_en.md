@@ -1,6 +1,6 @@
 ## Language Selection
 
-- [简体中文](https://github.com/Kanyooooo/Yuque2Hexo-tools/README.md) | English
+- [简体中文](https://github.com/Kanyooooo/Yuque2Hexo-tools/blob/main/README.md) | English
 
 ---
 
